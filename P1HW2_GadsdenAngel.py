@@ -3,14 +3,14 @@
 # P1HW2
 # User inputs their budget, destination, and how much they will spend on necessities for their trip.
 
-#Pseudocode
-#Get Budget
-#Get Destination
+#Pseudocode:
+#Get budget
+#Get destination
 #Get gas
 #Get hotel
 #Get food
 #Add expenses
-#Budget-Expenses
+#Budget - Expenses = Result
 #Display result
 
 print()
@@ -40,3 +40,4 @@ print("Food: ", food)
 print()
 print("Remaining Balance: ", result)
 print()
+
