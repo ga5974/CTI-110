@@ -17,6 +17,9 @@ Loop the process until user inputs "Done"
 '''
 
 #loop this all. while employee name ! "Done"
+#log answers using list thing
+#add em up at emd
+
 #input
 employee = input("Enter employee's name: ")
 hours = float(input("Number of hours worked: "))
